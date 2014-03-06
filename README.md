@@ -1,17 +1,17 @@
 JSON Editor
 ===========
 
-![JSON Schema -> HTML Editor -> JSON](https://raw.github.com/jdorn/json-editor/master/jsoneditor.png)
+![JSON Schema -> HTML Editor -> JSON](https://raw.github.com/Aquevix/json-editor/master/jsoneditor.png)
 
 JSON Editor takes a JSON Schema and uses it to generate an HTML form.  
 It has full support for JSON Schema version 3 and 4 and can integrate with several popular CSS frameworks (bootstrap, foundation, and jQueryUI).
 
-Check out an interactive demo: http://rawgithub.com/jdorn/json-editor/master/demo.html
+Check out an interactive demo: http://rawgithub.com/Aquevix/json-editor/master/demo.html
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/jdorn/json-editor/master/dist/jquery.jsoneditor.min.js
-[max]: https://raw.github.com/jdorn/json-editor/master/dist/jquery.jsoneditor.js
+[min]: https://raw.github.com/Aquevix/json-editor/master/dist/jquery.jsoneditor.min.js
+[max]: https://raw.github.com/Aquevix/json-editor/master/dist/jquery.jsoneditor.js
 
 Requirements
 -----------------
@@ -35,9 +35,9 @@ Usage
 
 If you learn best by example, check these out:
 
-*  Basic Usage Example - http://rawgithub.com/jdorn/json-editor/master/examples/basic.html
-*  Advanced Usage Example - http://rawgithub.com/jdorn/json-editor/master/examples/advanced.html
-*  CSS Integration Example - http://rawgithub.com/jdorn/json-editor/master/examples/css_integration.html
+*  Basic Usage Example - http://rawgithub.com/Aquevix/json-editor/master/examples/basic.html
+*  Advanced Usage Example - http://rawgithub.com/Aquevix/json-editor/master/examples/advanced.html
+*  CSS Integration Example - http://rawgithub.com/Aquevix/json-editor/master/examples/css_integration.html
 
 The rest of this README contains detailed documentation about every aspect of JSON Editor.
 
